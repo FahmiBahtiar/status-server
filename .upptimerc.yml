@@ -1,0 +1,51 @@
+# Change these first
+owner: Sulstice # Your GitHub organization or username, where this repository lives
+repo: Uptime-Bacteria # The name of this repository
+
+sites:
+  - name: European Molecular Biology Laboratory
+    url: https://www.ebi.ac.uk/
+  - name: DDBJ bioinformatics
+    url: https://www.ddbj.nig.ac.jp/services/index-e.html
+  - name: BROAD Institute
+    url: https://www.broadinstitute.org/data-software-and-tools
+  - name: ATCC
+    url: https://www.atcc.org/resources/application-notes/microbial-genome-databases
+  - name: Biocyc Genome Database
+    url: https://biocyc.org
+  - name: National Center for Bioinformatics Microbial Genome Database
+    url: https://www.ncbi.nlm.nih.gov/genome/microbes/
+  - name: Ensembl Bacteria
+    url: https://bacteria.ensembl.org/species.html
+  - name: EzBioCloud Public Genome
+    url: https://www.ezbiocloud.net/genome/list?tn=Root
+  - name: NIH Human Microbiome Project
+    url: https://www.hmpdacc.org/hmp/
+  - name: Microbial Genome Database
+    url: https://mbgd.nibb.ac.jp/
+  - name: JGI Genomes 
+    url: https://gold.jgi.doe.gov/
+  - name: Pseudomonas Genome Database
+    url: https://www.pseudomonas.com/
+  - name: Ecocyc
+    url: https://www.ecocyc.org/
+  - name: ECMDB
+    url: https://ecmdb.ca/
+  - name: Staphylococcus regulator RNA Database
+    url: http://srd.genouest.org/#
+  - name: Vibrio Cholera Genome Database
+    url: https://vibrio.biocyc.org/ 
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: bacteriadb.com
+  name: Bacteria Database Statuses
+  introTitle: "Website Status of Bacteria Databases"
+  introMessage: Welcome to the endpoint monitor of live databases. 
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+      
