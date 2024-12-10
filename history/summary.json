@@ -58,18 +58,20 @@
     "url": "https://codemarket.blimbing.xyz/api/v1/products",
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5176,
-    "timeDay": 6241,
-    "timeWeek": 5256,
-    "timeMonth": 5619,
-    "timeYear": 5176,
-    "dailyMinutesDown": {}
+    "time": 5294,
+    "timeDay": 8184,
+    "timeWeek": 5865,
+    "timeMonth": 5765,
+    "timeYear": 5294,
+    "dailyMinutesDown": {
+      "2024-12-10": 0
+    }
   },
   {
     "name": "Links Bio Profile",
