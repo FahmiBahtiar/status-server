@@ -40,18 +40,20 @@
     "url": "https://blog.blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.blimbing.xyz.ico",
     "slug": "blog-blimbing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 272,
-    "timeDay": 256,
-    "timeWeek": 263,
-    "timeMonth": 278,
-    "timeYear": 272,
-    "dailyMinutesDown": {}
+    "time": 274,
+    "timeDay": 292,
+    "timeWeek": 271,
+    "timeMonth": 280,
+    "timeYear": 274,
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "Code Market API",
