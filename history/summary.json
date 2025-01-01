@@ -22,18 +22,20 @@
     "url": "https://codemarket.blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1582,
-    "timeDay": 1772,
-    "timeWeek": 1557,
-    "timeMonth": 1604,
-    "timeYear": 1582,
-    "dailyMinutesDown": {}
+    "time": 1562,
+    "timeDay": 1051,
+    "timeWeek": 1404,
+    "timeMonth": 1564,
+    "timeYear": 1562,
+    "dailyMinutesDown": {
+      "2025-01-01": 0
+    }
   },
   {
     "name": "Blog Blimbing",
@@ -60,18 +62,20 @@
     "url": "https://codemarket.blimbing.xyz/api/v1/products",
     "icon": "https://icons.duckduckgo.com/ip3/codemarket.blimbing.xyz.ico",
     "slug": "code-market-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5413,
-    "timeDay": 5821,
-    "timeWeek": 5646,
-    "timeMonth": 5687,
-    "timeYear": 5413,
-    "dailyMinutesDown": {}
+    "time": 5334,
+    "timeDay": 3012,
+    "timeWeek": 4966,
+    "timeMonth": 5525,
+    "timeYear": 5334,
+    "dailyMinutesDown": {
+      "2025-01-01": 0
+    }
   },
   {
     "name": "Links Bio Profile",
