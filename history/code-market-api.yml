@@ -1,7 +1,7 @@
 url: https://codemarket.blimbing.xyz/api/v1/products
-status: down
-code: 403
-responseTime: 36
-lastUpdated: 2025-03-31T23:18:50.447Z
+status: up
+code: 200
+responseTime: 338
+lastUpdated: 2025-04-01T04:10:45.884Z
 startTime: 2024-11-05T07:10:49.301Z
 generator: Upptime <https://github.com/upptime/upptime>
