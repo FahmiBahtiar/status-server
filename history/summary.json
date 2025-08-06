@@ -4,18 +4,19 @@
     "url": "https://blimbing.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blimbing.xyz.ico",
     "slug": "blimbing-portofolio",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.30%",
-    "time": 442,
-    "timeDay": 151,
-    "timeWeek": 177,
-    "timeMonth": 183,
-    "timeYear": 442,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.29%",
+    "time": 441,
+    "timeDay": 90,
+    "timeWeek": 158,
+    "timeMonth": 180,
+    "timeYear": 441,
     "dailyMinutesDown": {
+      "2025-08-06": 27,
       "2025-07-26": 22,
       "2025-07-24": 22,
       "2025-07-18": 18,
@@ -65,7 +66,7 @@
       "2025-05-09": 137,
       "2025-05-08": 52,
       "2025-05-05": 72,
-      "2025-05-04": 40
+      "2025-05-04": 19
     }
   },
   {
@@ -85,7 +86,7 @@
     "timeMonth": 0,
     "timeYear": 1455,
     "dailyMinutesDown": {
-      "2025-08-06": 434,
+      "2025-08-06": 461,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -292,7 +293,7 @@
     "timeMonth": 0,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2025-08-06": 434,
+      "2025-08-06": 461,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -498,7 +499,7 @@
     "timeMonth": 0,
     "timeYear": 3785,
     "dailyMinutesDown": {
-      "2025-08-06": 434,
+      "2025-08-06": 461,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -706,7 +707,7 @@
     "timeMonth": 0,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-08-06": 434,
+      "2025-08-06": 461,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
